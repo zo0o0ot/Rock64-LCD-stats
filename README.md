@@ -1,6 +1,6 @@
 # Rock64-LCD-stats
 
-This is the code I used to display the IP and Uptime on the front LCD of the Iconikal Rockchip RK3328, also known as the "Recon Sentinel" or a Rock64 v2 with an IPC.
+This is the code I used to display the IP and Uptime on the front LCD of the Iconikal Rockchip RK3328, also known as the "Recon Sentinel" or a Rock64 v2 with an IPC connected to a 16X2 LCD display.
 
 I installed Raspbian Buster and OpenMediaVault before starting.
 
